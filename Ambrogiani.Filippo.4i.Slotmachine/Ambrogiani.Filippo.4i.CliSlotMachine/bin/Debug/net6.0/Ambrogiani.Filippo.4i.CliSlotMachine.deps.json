@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ambrogiani.Filippo.4i.CliSlotMachine/1.0.0": {
+        "runtime": {
+          "Ambrogiani.Filippo.4i.CliSlotMachine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ambrogiani.Filippo.4i.CliSlotMachine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

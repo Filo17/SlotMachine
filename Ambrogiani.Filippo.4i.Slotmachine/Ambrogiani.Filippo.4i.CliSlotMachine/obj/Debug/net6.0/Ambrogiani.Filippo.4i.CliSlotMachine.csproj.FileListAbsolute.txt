@@ -1,0 +1,15 @@
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\bin\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.exe
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\bin\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.deps.json
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\bin\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.runtimeconfig.json
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\bin\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.dll
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\bin\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.pdb
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\obj\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.csproj.AssemblyReference.cache
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\obj\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\obj\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.AssemblyInfoInputs.cache
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\obj\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.AssemblyInfo.cs
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\obj\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\obj\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.dll
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\obj\Debug\net6.0\refint\Ambrogiani.Filippo.4i.CliSlotMachine.dll
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\obj\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.pdb
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\obj\Debug\net6.0\Ambrogiani.Filippo.4i.CliSlotMachine.genruntimeconfig.cache
+C:\Users\studente\Desktop\Ambrogiani.Filippo.4i.Slotmachine\Ambrogiani.Filippo.4i.CliSlotMachine\obj\Debug\net6.0\ref\Ambrogiani.Filippo.4i.CliSlotMachine.dll
